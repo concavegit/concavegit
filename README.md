@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/build-passing-green) ![](https://img.shields.io/badge/dependencies-up--to--date-blue)
 
 ## Getting Started
-1. Download and run installation script: `$ echo Success!`
+1. Download and run the installation script: `$ echo Success!`
 2. If `Success!` was printed to your screen, you are all set!
    If not, a useful debugging step is to try running this in a docker environment or virtual machine.
 
